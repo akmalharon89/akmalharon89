@@ -10,6 +10,7 @@ I am interested in Data Analytics and looking forward for the opportunity to col
 - Currently learning : R
 - Familiar : Python, SQL
 
+You also can find me here : https://www.linkedin.com/in/akmal-haron-8094b4304/ 
 <!--
 **akmalharon89/akmalharon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
