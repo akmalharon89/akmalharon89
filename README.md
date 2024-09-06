@@ -5,7 +5,7 @@
 
 My name is Akmal Haron. I am an MBBS graduate from Universiti Sultan Zainal Abidin & currently pursuing my Master of Public Health at Universiti Malaya
 
-I am interested in Data Analytics and looking forward for the opportunity to collaborate :star_struck:
+I am interested in Data Analytics. Looking forward for the opportunity to learn & collaborate :star_struck:
 
 - Currently learning : R
 - Familiar : Python, SQL
